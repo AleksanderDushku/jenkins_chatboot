@@ -1,0 +1,10 @@
+version: '3'
+services:
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    tty: true
+    stdin_open: true
+    environment:
+      - OPENAI_API_KEY=YOUR_OPEN_API_KEY_HERE
