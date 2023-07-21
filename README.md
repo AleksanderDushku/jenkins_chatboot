@@ -50,4 +50,4 @@ Contributions to the Jenkins Chatbot project are welcome! If you find any issues
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](
+This project is licensed under the MIT License.
